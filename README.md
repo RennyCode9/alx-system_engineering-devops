@@ -1,1 +1,1 @@
-These are the solutions to the ALX Project 0x02 Shell I/O Redirection
+This is my foldet that contains all my solutions to the ALX Projects
