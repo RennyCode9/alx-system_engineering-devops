@@ -1,1 +1,1 @@
-This is a Shell Project assigned to me by ALX
+These are the solutions to the ALX Project 0x02 Shell I/O Redirection
